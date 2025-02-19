@@ -1,0 +1,33 @@
+.headMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.logoDiv {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.menu {
+    margin-right: 100px;
+}
+
+.inline {
+    display: inline;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.color {
+    background-color: gray;
+}
